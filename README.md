@@ -4,20 +4,19 @@
 
 - Add, edit, and delete tasks
 - Mark tasks as complete
-- Filter tasks by status
 - Persist task data to localStorage
 
 **Getting started:**
 
 1. Clone the repository:
 
-``` bash
+```bash
 git clone https://github.com/your-username/react-typescript-vite-todo-app.git
 ```
 
 2. Install the dependencies:
 
-``` bash
+```bash
 npm install
 # or
 pnpm install
@@ -25,7 +24,7 @@ pnpm install
 
 3. Start the development server:
 
-``` bash
+```bash
 npm run dev
 # or
 pnpm dev
